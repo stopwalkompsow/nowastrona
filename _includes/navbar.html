@@ -44,6 +44,21 @@
         >PRESS</a
       >
       <a class="nav-item nav-link" href="/#contact">KONTAKT</a>
+      <a
+        class="
+          nav-item nav-link
+          {%
+          if
+          page.slug
+          ==
+          'download'
+          %}active{%
+          endif
+          %}
+        "
+        href="/download.html"
+        >DO POBRANIA</a
+      >
     </div>
   </div>
 </nav>
