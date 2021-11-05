@@ -708,3 +708,26 @@ input[type=file] {
 		padding-right: 5%;
 		margin-bottom: 0px;
 	}
+
+.video {
+	position: relative;
+	margin-bottom: 120px;
+}
+
+@media (max-width: 767px) {
+	.video {
+		margin: 20px -30px 60px;
+	}
+}
+
+.video-container {
+	padding-top: 56.25%;
+}
+
+.video iframe {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
