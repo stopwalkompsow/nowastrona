@@ -38,10 +38,16 @@
   <meta property="og:description" content="{{ page.excerpt }}" />
   <link rel="canonical" href="https://stopwalkompsow.pl/" />
   <meta property="og:site_name" content="Stop Walkom Psów" />
-  <meta property="og:image" content="{{ site.url }}{{ page.thumbnail }}" />
+  <meta
+    property="og:image"
+    content="{{ site.url }}{{ site.baseurl }}{{ page.thumbnail }}"
+  />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="{{ page.title }}" />
-  <meta name="twitter:image" content="{{ site.url }}{{ page.thumbnail }}" />
+  <meta
+    name="twitter:image"
+    content="{{ site.url }}{{ site.baseurl }}{{ page.thumbnail }}"
+  />
   <!-- End Jekyll SEO tag -->
 
   <style>
