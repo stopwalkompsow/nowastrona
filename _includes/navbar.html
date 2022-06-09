@@ -44,6 +44,11 @@
         >PRESS</a
       >
       <a
+        class="nav-item nav-link {% if page.slug == 'blog' or page.layout == 'post' %}active{% endif %}"
+        href="/blog.html"
+        >BLOG</a
+      >
+      <a
         class="nav-item nav-link {% if page.slug == 'download' %}active{% endif %}"
         href="/download.html"
         >DO POBRANIA</a
@@ -52,11 +57,6 @@
         class="nav-item nav-link {% if page.slug == 'partnerzy' %}active{% endif %}"
         href="/partnerzy.html"
         >PARTNERZY</a
-      >
-      <a
-        class="nav-item nav-link {% if page.slug == 'blog' or page.layout == 'post' %}active{% endif %}"
-        href="/blog.html"
-        >BLOG</a
       >
       <a class="nav-item nav-link" href="/#contact">KONTAKT</a>
     </div>
