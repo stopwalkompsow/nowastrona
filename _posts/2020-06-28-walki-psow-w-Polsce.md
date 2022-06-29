@@ -11,15 +11,17 @@ Informacje o walkach zawsze trzymane są w tajemnicy przez biorące w tym udzia�
 
 Opinia publiczna rzadko się o nich dowiaduje, dlatego konieczne jest prowadzenie akcji społecznych, takich jak kampania "Stop Walkom Psów". Upowszechnianie informacji o tym zjawisku oraz uświadamianie społeczeństwa o skali problemu, może pomóc w zwalczaniu tego okrutnego procederu.
 
-**Bestialska "rozrywka"**
+## Bestialska "rozrywka"
 
 Walki psów to bestialskie tortury dla zwierząt biorących w nich udział, najczęściej doprowadzające do śmierci co najmniej jednego z nich z powodu odniesionych ran, utraty krwi, wstrząsu, odwodnienia, wyczerpania, czy też w wyniku infekcji rozwijających się po kilku godzinach lub nawet kilku dniach po odbytej walce. Psy, które przetrwają starcie w “ringu” cierpią z powodu fizycznych urazów i psychicznej traumy.
+
+![placeholder](https://stopwalkompsow.pl/img/pressdog1.jpg) "Pies wykorzystywany do walk")
 
 W Polsce rasą najczęściej wykorzystywaną w organizowanych walkach jest amerykański pitbulterier. Obok pitbulli do walk wystawiane są też często amstaffy, dogi kanaryjskie, rottweilery oraz ich krzyżówki. W konsekwencji tego, rasy o dużych rozmiarach ciała, o kanciastych szczękach, zostały niesprawiedliwie zaliczone do kategorii „psów niebezpiecznych". Są one hodowane ze względu na specyficzne cechy, takie jak tzw. gameness, czyli gotowość i żądza walki, nawet wtedy, gdy zwierzę jest ciężko ranne. Cecha ta zasadniczo odróżnia je od niewalczących psów, u których zachowania agresywne zazwyczaj ustają, gdy drugie zwierze się podda lub wycofa. 
 
 Psy, które nie wykazują cech pożądanych przez organizatorów walk, zabijane są brutalnymi metodami. Bywają też pozostawiane na łaskę innych, uwarunkowanych na agresję psów, co zazwyczaj kończy się ich zagryzieniem.
 
-**Co możesz zrobić?**
+## Co możesz zrobić?
 
 Pomimo zatajania informacji o nielegalnych walkach psów, niejednokrotnie dochodziło już w Polsce do zatrzymań osób powiązanych z tym procederem pod zarzutem znęcania się nad zwierzętami. Jeśli dysponujesz informacjami, które mogą nam pomoć w powstrzymaniu kolejnych tego rodzaju walk skontaktuj się z nami. Na naszej stronie internetowej można anonimowo zgłosić podejrzenie wykorzystywania zwierząt w nielegalnych walkach lub przekazać informacje na temat podejrzanych hodowli, w których psy mogą być do nich szkolone.
 
