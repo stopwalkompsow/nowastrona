@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Okrutne walki psów. W Polsce nadal mamy z nimi problem."
+title: "Okrutne walki psów. W Polsce nadal mamy z nimi problem"
 excerpt: "W Polsce wciąż organizowane są nielegalne walki psów. Niestety z uwagi na trudności w pozyskiwaniu dowodów, tego rodzaju sprawy rzadko kończą się przed sądami. Kampania “Stop Walkom Psów” ma to zmienić, mobilizując do działania i uświadamiając społeczeństwu istnienie problemu."
 thumbnail: "/img/blog/pressdog1.jpg"
 ---
