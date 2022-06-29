@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="pl">
+  {% include head-post.html %}
+  <body>
+    {% include navbar.html %}
+    <div class="blackhead">
+      <h1 style="font-style: bolder; text-align: center">{{ page.title }}</h1>
+      <br />
+      <div class="post-content">{{ content }}</div>
+    </div>
+    {% include footer.html %}
+  </body>
+</html>

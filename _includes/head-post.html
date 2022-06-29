@@ -1,11 +1,7 @@
 <head>
-  <title>Stop Walkom Psów</title>
+  <title>{{ page.title }} | Stop Walkom Psów</title>
   <meta charset="utf-8" />
-  <meta
-    name="description"
-    content="W Polsce wciąż organizowane są nielegalne walki psów! Pomóż nam zatrzymać ten okrutny proceder."
-  />
-  <meta name="title" content="Stop Walkom Psów" />
+  <meta name="description" content="{{ page.excerpt }}" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="stylesheet" href="/styles.css?v=3" />
   <link rel="preconnect" href="https://fonts.gstatic.com" />
@@ -36,37 +32,22 @@
   />
 
   <!-- Begin Jekyll SEO tag v2.7.1 -->
-  <title>https://stopwalkompsow.pl/ | Stop Walkom Psów</title>
   <meta name="generator" content="Jekyll v3.9.0" />
-  <meta property="og:title" content="Stop Walkom Psów" />
+  <meta property="og:title" content="{{ page.title }}" />
   <meta property="og:locale" content="pl_PL" />
-  <meta
-    name="description"
-    content="W Polsce wciąż organizowane są nielegalne walki psów! Pomóż nam zatrzymać ten okrutny proceder."
-  />
-  <meta
-    property="og:description"
-    content="W Polsce wciąż organizowane są nielegalne walki psów! Pomóż nam zatrzymać ten okrutny proceder."
-  />
+  <meta property="og:description" content="{{ page.excerpt }}" />
   <link rel="canonical" href="https://stopwalkompsow.pl/" />
-  <meta property="og:url" content="https://stopwalkompsow.pl/" />
   <meta property="og:site_name" content="Stop Walkom Psów" />
+  <meta
+    property="og:image"
+    content="{{ site.url }}{{ site.baseurl }}{{ page.thumbnail }}"
+  />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Stop Walkom Psów!" />
+  <meta name="twitter:title" content="{{ page.title }}" />
   <meta
     name="twitter:image"
-    content="https://stopwalkompsow.github.io/img/splash.jpg"
+    content="{{ site.url }}{{ site.baseurl }}{{ page.thumbnail }}"
   />
-  <script type="application/ld+json">
-    {
-      "description": "W Polsce wciąż organizowane są nielegalne walki psów! Pomóż nam zatrzymać ten okrutny proceder.",
-      "url": "https://stopwalkompsow.pl/",
-      "@type": "WebSite",
-      "headline": "Stop Walkom Psów",
-      "name": "Stop Walkom Psów",
-      "@context": "https://schema.org"
-    }
-  </script>
   <!-- End Jekyll SEO tag -->
 
   <style>
