@@ -15,7 +15,7 @@ Opinia publiczna rzadko się o nich dowiaduje, dlatego konieczne jest prowadzeni
 
 Walki psów to bestialskie tortury dla zwierząt biorących w nich udział, najczęściej doprowadzające do śmierci co najmniej jednego z nich z powodu odniesionych ran, utraty krwi, wstrząsu, odwodnienia, wyczerpania, czy też w wyniku infekcji rozwijających się po kilku godzinach lub nawet kilku dniach po odbytej walce. Psy, które przetrwają starcie w “ringu” cierpią z powodu fizycznych urazów i psychicznej traumy.
 
-![placeholder](https://stopwalkompsow.pl/img/pressdog1.jpg) "Pies wykorzystywany do walk")
+![placeholder](https://stopwalkompsow.pl/img/pressdog1.jpg)
 
 W Polsce rasą najczęściej wykorzystywaną w organizowanych walkach jest amerykański pitbulterier. Obok pitbulli do walk wystawiane są też często amstaffy, dogi kanaryjskie, rottweilery oraz ich krzyżówki. W konsekwencji tego, rasy o dużych rozmiarach ciała, o kanciastych szczękach, zostały niesprawiedliwie zaliczone do kategorii „psów niebezpiecznych". Są one hodowane ze względu na specyficzne cechy, takie jak tzw. gameness, czyli gotowość i żądza walki, nawet wtedy, gdy zwierzę jest ciężko ranne. Cecha ta zasadniczo odróżnia je od niewalczących psów, u których zachowania agresywne zazwyczaj ustają, gdy drugie zwierze się podda lub wycofa. 
 
