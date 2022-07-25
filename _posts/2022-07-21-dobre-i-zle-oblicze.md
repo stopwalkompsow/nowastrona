@@ -15,7 +15,7 @@ W połowie XIX wieku pitbulle zaczęły przybywać ze swoimi pierwotnymi właśc
 
 Warto również zadbac o prawidłowe spożytkowanie ich energii podczas długich i intensywnych spacerów, biegów oraz innych form aktywności fizycznej.
 
-{% include responsive-image.html src="/img/blog/timothy-perry-68k0-ln4Xg8-unsplash.jpg" alt="Rozradowany Pitbull" %}
+![placeholder](https://stopwalkompsow.pl/img/blog/timothy-perry-68k0-ln4Xg8-unsplash.jpg)
 Fot.: Timothy Perry, źródło Unsplash. 
 
 **Zjawiskowy dog argentyński**
