@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Dobre i złe oblicze bojowych ras psów"
-excerpt: "Niektóre psy częściowo słusznie uważa się za bardziej bojowe od innych. Jednak tylko od nas zależy, jak skanalizujemy ich energię i czy wrodzone skłonności zostaną wykorzystane w dobrym, czy w złym celu."
+excerpt: "Niektóre psy, częściowo słusznie, uważa się za bardziej bojowe od innych. Jednak tylko od nas zależy, jak skanalizujemy ich energię i czy wrodzone skłonności zostaną wykorzystane w dobrym, czy w złym celu."
 thumbnail: "/img/blog/timothy-perry-68k0-ln4Xg8-unsplash.jpg"
 ---
 
-Niektóre psy częściowo słusznie uważa się za bardziej bojowe od innych. Jednak tylko od nas zależy, jak skanalizujemy ich energię i czy wrodzone skłonności zostaną wykorzystane w dobrym, czy w złym celu.
+Niektóre psy, częściowo słusznie, uważa się za bardziej bojowe od innych. Jednak tylko od nas zależy, jak skanalizujemy ich energię i czy wrodzone skłonności zostaną wykorzystane w dobrym, czy w złym celu.
 
 ## Oddane pitbulle
 
