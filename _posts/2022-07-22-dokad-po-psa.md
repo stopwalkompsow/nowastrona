@@ -12,10 +12,10 @@ Większość rodzin przygarnia psa raz na wiele lat, stąd niewielka świadomoś
 ## Hodowla legalna a nielegalna
 
 Niektórym zależy na uroczym kundelku, ale inni mają swoje powody, by kupić psa z rodowodem. W naszym kraju istnieją hodowle zrzeszone w Związku Kynologicznym w Polsce lub innej podobnej organizacji. Jeśli już chcemy kupić psa, to taki pochodzący ze sprawdzonej hodowli będzie:
-- **zdrowy** – Suki są badane tam pod kątem chorób dziedzicznych i typowych dla danej rasy (np. bolesna dla psa dysplazja stawów biodrowych). Psy są szczepione i zadbane.
-- **wyszkolony** – Psy z takich miejsc mają uprawiać sporty lub towarzyszyć rodzinom i pod tym kątem są przygotowywane.
-- **sprawdzony** – Kupujący podpisuje umowę ze sprzedawcą, więc w razie podejrzeń czy problemów może zgłosić go na policję, podać do sądu lub zwrócić psa sprzedawcy.
-- **rasowy** – Jeśli komuś zależy na pewnych cechach u swoich psów, jak np. rasa czy kolor, to może je zaplanować, dobierając szczeniaki od odpowiednich rodziców.
+- zdrowy – Suki są badane tam pod kątem chorób dziedzicznych i typowych dla danej rasy (np. bolesna dla psa dysplazja stawów biodrowych). Psy są szczepione i zadbane.
+- wyszkolony – Psy z takich miejsc mają uprawiać sporty lub towarzyszyć rodzinom i pod tym kątem są przygotowywane.
+- sprawdzony – Kupujący podpisuje umowę ze sprzedawcą, więc w razie podejrzeń czy problemów może zgłosić go na policję, podać do sądu lub zwrócić psa sprzedawcy.
+- rasowy – Jeśli komuś zależy na pewnych cechach u swoich psów, jak np. rasa czy kolor, to może je zaplanować, dobierając szczeniaki od odpowiednich rodziców.
 
 W legalnych hodowlach psie samice mogą rodzić maksymalnie tylko raz w roku kalendarzowym i nie dłużej, niż do ósmego roku życia. Nieco inaczej jest w nielegalnej hodowli, gdzie zwierzęta są eksploatowane i nie podlegają żadnej kontroli. Pies może przypominać na pierwszy rzut oka przedstawiciela modnej rasy, ale przecież tak naprawdę może być kundelkiem. To się okaże, gdy dorośnie lub wyda na świat własne potomstwo. Mogą pojawić się też problemy wychowawcze, jeśli np. takie zwierze brało w wieku szczenięcym udział w walkach. Wydaje się, że nie ma sensu kupować takiego psa, skoro schroniska są pełne bardzo podobnych zwierząt.
 
@@ -28,11 +28,11 @@ Związek Kynologiczny w Polsce uznaje za to bardzo podobną rasę: American Staf
 ## Jak rozpoznać nielegalną hodowlę?
 
 Niestety, zgodnie z prawem wystarczy założyć dowolną fundację, by móc handlować psami. Niektórzy nawet tego nie robią, oferując swoje psy na sprzedaż na własną rękę w internecie lub na targu. Warto zwracać uwagę na kilka czynników, mając do czynienia z takim sprzedawcą:
-- **Certyfikaty**: hodowle zrzeszone w Związku Kynologicznym w Polsce działają zgodnie ze standardami Fédération Cynologique Internationale. Uwaga: pozostałe hodowle zazwyczaj też firmują się przynależnością do jakiegoś założonego przez siebie związku, co ma uśpić czujność kupujących. Warto uważnie sprawdzać nazwy stowarzyszeń, związków i certyfikatów.
-- **Cena**: jeśli jest niższa, niż zwyczajowa, to jest wysokie prawdopodobieństwo, że hodowla nie jest legalna.
-- **Stan zwierząt**: warto odwiedzić to miejsce i sprawdzić, w jakich warunkach są przetrzymywane zwierzęta. Dodatkową wskazówką jest ich zachowanie – czy bawią     się z opiekunami na świeżym powietrzu, czy wyglądają na przestraszone?
-- **Badania**: Warto o nie pytać podczas zakupu nie tylko dla formalności. Pies, w którego     zainwestowaliśmy setki czy tysiące złotych, a następnie się do niego przywiązaliśmy, może żyć krótko, jeśli nikt nie zadbał w porę o jego zdrowie.
-- **Rodzice**: w dobrej hodowli można zobaczyć rodziców swojego przyszłego psa. Jeśli są w złym stanie lub hodowca nie chce o nich mówić, to nie jest dobry znak dla kupującego.
+- Certyfikaty: hodowle zrzeszone w Związku Kynologicznym w Polsce działają zgodnie ze standardami Fédération Cynologique Internationale. Uwaga: pozostałe hodowle zazwyczaj też firmują się przynależnością do jakiegoś założonego przez siebie związku, co ma uśpić czujność kupujących. Warto uważnie sprawdzać nazwy stowarzyszeń, związków i certyfikatów.
+- Cena: jeśli jest niższa, niż zwyczajowa, to jest wysokie prawdopodobieństwo, że hodowla nie jest legalna.
+- Stan zwierząt: warto odwiedzić to miejsce i sprawdzić, w jakich warunkach są przetrzymywane zwierzęta. Dodatkową wskazówką jest ich zachowanie, czy bawią  się z opiekunami na świeżym powietrzu, czy wyglądają na przestraszone?
+- Badania: Warto o nie pytać podczas zakupu nie tylko dla formalności. Pies, w którego zainwestowaliśmy setki czy tysiące złotych, a następnie się do niego przywiązaliśmy, może żyć krótko, jeśli nikt nie zadbał w porę o jego zdrowie.
+- Rodzice: w dobrej hodowli można zobaczyć rodziców swojego przyszłego psa. Jeśli są w złym stanie lub hodowca nie chce o nich mówić, to nie jest dobry znak dla kupującego.
 
 ## Ze schroniska czy z hodowli?
 
