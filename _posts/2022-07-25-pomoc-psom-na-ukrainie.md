@@ -33,9 +33,8 @@ Jak w takiej sytuacji pomóc ukraińskim psom?
      
 - Ponieważ do polskich schronisk trafiły w ostatnich miesiącach również ukraińskie zwierzęta, najłatwiej pomożesz, adoptując psa.
      
-- Jeśli możesz zaoferować nocleg uchodźcom z Ukrainy z psem lub kotem, to zgłoś taką możliwość w odpowiedniej grupie na Facebooku (np. [Pomoc dla zwierząt w Ukrainie || Допомога домашнім тваринам в Україні](https://www.facebook.com/groups/976873776134238/)) lub w lokalnym punkcie pomocy.
+- Jeśli możesz zaoferować nocleg uchodźcom z Ukrainy z psem lub kotem, to zgłoś taką możliwość w odpowiedniej grupie na Facebooku, np. [Pomoc dla zwierząt w Ukrainie || Допомога домашнім тваринам в Україні](https://www.facebook.com/groups/976873776134238/) lub w lokalnym punkcie pomocy.
      
 - Behawioryści, weterynarze i opiekunowie zwierząt mogą pomóc w schroniskach, dbając w wolnym czasie o ukraińskie zwierzęta.
 
-Psy z Ukrainy po przybyciu do Polski powinny przebyć kwarantannę, bo w większości nie są szczepione na wściekliznę lub nie mają takich dokumentów. Adoptując dowolnego psa, który już jest w schronisku, zwalniasz miejsce tym zwierzętom, które przybędą tam po kwarantannie.  W poszukiwanie domu dla czworonogów z Ukrainy  poprzez apele w mediach społecznościowych włączyła się aktorka Olga Bołądź, a aktor Janusz Chabior w maju osobiście przygarnął psa, któremu rosyjski czołg pokiereszował tylne łapy. Każdy z nas może zdobyć się na podobny gest i w tym trudnym czasie pomóc zwierzętom zza wschodniej granicy.
-
+Psy z Ukrainy po przybyciu do Polski powinny przebyć kwarantannę, bo w większości nie są szczepione na wściekliznę lub nie mają takich dokumentów. Adoptując dowolnego psa, który już jest w schronisku, zwalniasz miejsce tym zwierzętom, które przybędą tam po kwarantannie. W poszukiwanie domu dla czworonogów z Ukrainy poprzez apele w mediach społecznościowych włączyła się aktorka Olga Bołądź, a aktor Janusz Chabior w maju osobiście przygarnął psa, któremu rosyjski czołg pokiereszował tylne łapy. Każdy z nas może zdobyć się na podobny gest i w tym trudnym czasie pomóc zwierzętom zza wschodniej granicy.
