@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Schroniska, hodowle i pseudohodowle. Dokąd po psa?"
-excerpt: "Większość rodzin przygarnia psa raz na wiele lat, przez co nie wiele osób dysponuje aktualną wiedzą na temat sytuacji w hodowlach. Niestety poza legalnymi hodowalmi wciąż istnieje wiele nielegalnych, a niektórzy szukają takich miejsc, zamiast zgłosić się do najbliższego schroniska. Jak rozpoznać, że pies z ogłoszenia może pochodzić z takiego miejsca?"
+excerpt: "Większość rodzin przygarnia psa raz na wiele lat, przez co niewiele osób dysponuje aktualną wiedzą na temat sytuacji w hodowlach. Niestety poza legalnymi hodowalmi wciąż istnieje wiele nielegalnych, a niektórzy szukają takich miejsc, zamiast zgłosić się do najbliższego schroniska. Jak rozpoznać, że pies z ogłoszenia może pochodzić z takiego miejsca?"
 thumbnail: "/img/blog/hodowle.jpg"
 ---
 
