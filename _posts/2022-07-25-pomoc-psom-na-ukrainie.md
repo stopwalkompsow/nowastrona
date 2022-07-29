@@ -33,7 +33,7 @@ Jak w takiej sytuacji pomóc ukraińskim psom?
      
 - Ponieważ do polskich schronisk trafiły w ostatnich miesiącach również ukraińskie zwierzęta, najłatwiej pomożesz, adoptując psa.
      
-- Jeśli możesz zaoferować nocleg uchodźcom z Ukrainy z psem lub kotem, to zgłoś taką możliwość w odpowiedniej grupie na Facebooku, np. [Pomoc dla zwierząt w Ukrainie || Допомога домашнім тваринам в Україні](https://www.facebook.com/groups/976873776134238/) lub w lokalnym punkcie pomocy.
+- Jeśli możesz zaoferować nocleg uchodźcom z Ukrainy z psem lub kotem, to zgłoś taką możliwość w odpowiedniej grupie na Facebooku, np. [Pomoc dla zwierząt w Ukrainie - Допомога домашнім тваринам в Україні](https://www.facebook.com/groups/976873776134238/) lub w lokalnym punkcie pomocy.
      
 - Behawioryści, weterynarze i opiekunowie zwierząt mogą pomóc w schroniskach, dbając w wolnym czasie o ukraińskie zwierzęta.
 
