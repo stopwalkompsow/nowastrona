@@ -27,7 +27,7 @@ Związek Kynologiczny w Polsce uznaje za to bardzo podobną rasę: American Staf
 
 ## Jak rozpoznać nielegalną hodowlę?
 
-Niestety, zgodnie z polskim prawem wystarczy założyć organizację, która za cel statutowy stawia sobie "działalność związaną z hodowlą rasowych psów", by móc nimi handlować. Niektórzy nawet tego nie robią, oferując swoje psy na sprzedaż na własną rękę w internecie lub na targu (czego wyraźnie zabrania ustawa o ochornie zwierząt). Warto zwracać uwagę na kilka czynników, mając do czynienia z takim sprzedawcą:
+Niestety, zgodnie z polskim prawem wystarczy zarejestrować organizację, która za cel statutowy stawia sobie "działalność związaną z hodowlą rasowych psów", by móc nimi handlować. Niektórzy nawet tego nie robią, oferując swoje psy na sprzedaż na własną rękę w internecie lub na targu (czego wyraźnie zabrania ustawa o ochronie zwierząt). Warto zwracać uwagę na kilka czynników, mając do czynienia z takim sprzedawcą:
 - Certyfikaty: hodowle zrzeszone w Związku Kynologicznym w Polsce działają zgodnie ze standardami Fédération Cynologique Internationale. Uwaga: pozostałe hodowle zazwyczaj też firmują się przynależnością do jakiegoś założonego przez siebie związku, co ma uśpić czujność kupujących. Warto uważnie sprawdzać nazwy stowarzyszeń, związków i certyfikatów.
 - Cena: jeśli jest niższa, niż zwyczajowa, to jest wysokie prawdopodobieństwo, że hodowla nie jest legalna.
 - Stan zwierząt: warto odwiedzić to miejsce i sprawdzić, w jakich warunkach są przetrzymywane zwierzęta. Dodatkową wskazówką jest ich zachowanie, czy bawią  się z opiekunami na świeżym powietrzu, czy wyglądają na przestraszone?
