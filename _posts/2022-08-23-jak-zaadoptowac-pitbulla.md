@@ -18,7 +18,7 @@ Jest sporo innych pytań, które należy sobie zadać przed adopcją psa, by dob
 
 Przy adopcji pitbulli i innych terrierów typu bull, musimy zastanowić się nad tym:
 
-- <strong>Jaki jest mój tryb życia, jeśli mam rodzinę- jak aktywni jesteśmy, i ile czasu mogę poświęcić na psa i jego szkolenie?</strong>
+- <em>Jaki jest mój tryb życia, jeśli mam rodzinę- jak aktywni jesteśmy, i ile czasu mogę poświęcić na psa i jego szkolenie?</em>
 
 Dla aktywnych osób, które mogą pracować z psem często i mają do tego zapał, będzie odpowiedni nawet bardzo energiczny i wymagający pies. Dla innych adopcja psa żywiołowego będzie niewłaściwym wyborem i lepiej wybrać towarzysza spokojniejszego lub starszego. 
 
