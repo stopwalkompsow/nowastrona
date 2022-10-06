@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Treningi dla psów - ich różnorodność i po co je robić"
+title: "Treningi dla psów - jak je prowadzić i dlaczego"
 excerpt: "Każdy pies, szczególnie domowy, potrzebuje stymulacji i ruchu, a to może zapewnić mu trening: biegania, posłuszeństwa, pracy węchowej czy sportów kynologicznych pod okiem profesjonalisty. Co jest dla psa ważniejsze - ruch czy stymulacja umysłowa?"
 thumbnail: "/img/blog/treningi.jpg"
 ---
