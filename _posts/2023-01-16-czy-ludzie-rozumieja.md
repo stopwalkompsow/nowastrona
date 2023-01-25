@@ -1,10 +1,8 @@
-
 ---
-layout: post
-title: "Czy ludzie rozumieją psią mowę?"
-excerpt: "Psia mowa jest dokładnie zbadana przez behawiorystów i naukowców. Sprawdź, co prubuje Ci powiedzieć Twój pies"
-thumbnail: "/img/blog/ludzie.jpg"
-
+layout: post 
+title: "Czy ludzie rozumieją psią mowę?" 
+excerpt: "Psia mowa jest dokładnie zbadana przez behawiorystów i naukowców. Sprawdź, co prubuje Ci powiedzieć Twój pies" 
+thumbnail: "/img/blog/ludzie.jpg" 
 ---
 
 
