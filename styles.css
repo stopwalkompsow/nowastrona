@@ -12,21 +12,21 @@ p {
 .smallp {
 	font-size: 16px;
 	font-family: 'Poppins', sans-serif;
-	line-height: 23px;
+	line-height: 32px;
 	letter-spacing: 2px;
 	color: black;
 }
 
 .orange {
 	color: #FF4400;
-	line-height: 23px;
+	line-height: 32px;
 	font-family: 'Poppins', sans-serif;
 	letter-spacing: 2px;
 }
 
 .whitep {
 	color: #FFFFFF;
-	line-height: 23px;
+	line-height: 32px;
 	font-family: 'Poppins', sans-serif;
 	letter-spacing: 2px;
 }
@@ -37,7 +37,7 @@ a {
 }
 .link {
 	font-family: 'Poppins', sans-serif;
-	line-height: 23px;
+	line-height: 32px;
 	letter-spacing: 2px;
 	color: black;
 	font-size: 26px;
@@ -108,7 +108,7 @@ html,body {
 	}
 
 	p {
-		line-height: 23px;
+		line-height: 32px;
 		font-family: 'Poppins', sans-serif;
 		letter-spacing: 2px;
     color: black;
